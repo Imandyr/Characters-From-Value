@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# A bash script to compile, link, and execute file, that uses an assembly function a C++ code.
+# A bash script to compile, link, and execute file that uses an assembly function in C++ code.
 # Use: ./q_t_a_w_c_p_p.sh quad_to_ascii_1 use_q_t_a_1
 
 ass_file="$1"
