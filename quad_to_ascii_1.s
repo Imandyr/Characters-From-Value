@@ -1,4 +1,4 @@
-# A function to convert an array with quad words into the decimal ASCII representation 1.
+# A function to convert a quad-word into the decimal ASCII representation 1.
 
 .globl value_size, stack_frame_size, quad_to_ascii
 .type quad_to_ascii, @function
